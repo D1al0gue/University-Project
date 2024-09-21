@@ -1,0 +1,32 @@
+CGRA151 Project Plan
+
+[you may delete anything enclosed in square brackets]
+
+[this document must be no more than one A4 page long]
+
+Student name: David Pranata Timothy Nangoi
+Student ID: 300604132
+Name of game/artwork: 0xff
+
+Vision
+1. Game concept: 
+
+The game is basically a tower defense game where you only have 1 tower to work with, and to protect that tower at all cost. Once the tower reaches 0 hp, the game ends and a new round will start.
+
+2. Game play: [One paragraph on the design of the interaction that you plan to have]
+
+This game basically has a hexagon tower (in the middle) and little monster towers (squares) comes in and try to touch the tower. Once it touches the tower, it loses HP. Killing the little squares will get the player some cash. The longer the player is into the round, the more enemies will appear (and stronger) every 25 enemies spawned, A boss fight will be in progress and squares will not spawn until the boss is killed (applies ONLY to the first 3 boss fight)
+
+
+3. Visual design: The graphical style will be neon themed, futuristic sort of game that will appear neon like themed and blueish background. It is a simple graphic design, sort of resembles geometry dash like graphical interface and design.
+
+Timetable
+1. A core working program (done by two weeks before deadline): Working collisions, physics, with precise timing on the shot (once it reaches the tower range, it should be able to time the shot just about right according to the box's speed) 
+
+Working gmaeplay mechanics and interactions (upgradable stats) 
+
+2. A reasonable submission (done by one week before deadline): Once the graphical design is finished and the gameplay works fine, I'll be more than happy to submit
+
+3. A well-polished submission (done by project deadline): might do a couple OUTSIDE gameplay permanent upgrade, (and a little extra easter egg maybe) 
+
+[Appendices: you may submit up to nine further pages of sketches, images, screenshots, and notes as appendices to your one-page plan, which can demonstrate either early ideas or sources that you are using for inspiration. If you use appendices submit the whole file as a PDF. If you do not use appendices, submit either a PDF or a plain text file.]

@@ -1,0 +1,28 @@
+a{S3}
+
+s{
+ t{ i{c} d{S1} }
+ t{ i{a} d{S0} }
+ n{S0 }  
+ t{ d{S0} i{t}  }
+ t{ i{x} d{S0} } }
+i{S0}
+
+s{
+  n{S1}
+  t{ d{S1} i{c}  }
+  t{ i{a} d{S2} }
+  t{ i{x} d{S2} }
+}
+
+s{
+  n{S2}
+  t{ d{S3} i{t}  }
+  t{ i{x} d{S0}}
+}
+
+s{
+  n{ S3 }
+}
+
+

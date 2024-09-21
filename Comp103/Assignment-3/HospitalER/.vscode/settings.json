@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/david/T2-VUW-2023/Comp103/Assignment-3/ecs100.jar"
+    ]
+}

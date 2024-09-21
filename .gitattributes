@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+T2-VUW-2023/ENGR110/ML_Project/mnist_train.csv filter=lfs diff=lfs merge=lfs -text

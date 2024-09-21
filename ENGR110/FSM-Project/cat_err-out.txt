@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+string state;
+string input;
+int accept = 0;
+int Proc(const string& input, const FSM_out& fsm, string& state) {
+}
+int main() {
+state = "";
+while (1) {
+cout << " state=" << state << " enter signal" << endl;
+cin >> input;
+accept = Proc(input, fsm, state);
+cout << " new state=" << state << endl;
+if (accept == 1) {
+cout << "FSM reached accepting state" << endl;
+break;
+}
+}
+}
